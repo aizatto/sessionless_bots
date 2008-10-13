@@ -1,0 +1,10 @@
+= Sessionless Bots
+
+Sessionless Bots ensures that bots are not assigned a session, which can eat up 
+your session database.
+
+Checking is done by examining a bots user agent.
+
+Inspired from http://jroller.com/obie/entry/wrestling_with_the_bots
+
+Copyright (c) 2007 Ezwan Aizat bin Abdullah Faiz, released under the MIT license
